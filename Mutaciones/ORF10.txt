@@ -1,0 +1,22 @@
+Query: None Query ID: lcl|Query_16769 Length: 117
+
+
+>
+Sequence ID: Query_16771 Length: 117
+Range 1: 1 to 117
+
+Score:217 bits(117), Expect:5e-62, 
+Identities:117/117(100%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  1    ATGGGCTATATAAACGTTTTCGCTTTTCCGTTTACGATATATAGTCTACTCTTGTGCAGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    ATGGGCTATATAAACGTTTTCGCTTTTCCGTTTACGATATATAGTCTACTCTTGTGCAGA  60
+
+Query  61   ATGAATTCTCGTAACTACATAGCACAAGTAGATGTAGTTAACTTTAATCTCACATAG  117
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   ATGAATTCTCGTAACTACATAGCACAAGTAGATGTAGTTAACTTTAATCTCACATAG  117
+
+
+
+
+
